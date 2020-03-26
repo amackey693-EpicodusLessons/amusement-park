@@ -1,0 +1,11 @@
+.too-short {
+  display: none;
+}
+
+.tall-enough {
+  display: none;
+}
+
+.too-tall {
+  display: none;
+}
